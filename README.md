@@ -90,23 +90,19 @@ Absolutely! Providing additional usage examples for various arguments and font s
     ```
 Certainly! Providing a helper list of all available font weights, text styles, and designs can be a valuable reference for developers using the `FontKit` class. This list will cover the options available in both SwiftUI and UIKit, ensuring that you can easily reference and choose the appropriate settings for your UI components.
 
-### Font Weights
+### Supported Font Weights
 
-Both SwiftUI and UIKit use the same set of font weights:
+1. **UltraLight**: `.ultraLight`
+2. **Thin**: `.thin`
+3. **Light**: `.light`
+4. **Regular**: `.regular`
+5. **Medium**: `.medium`
+6. **Semibold**: `.semibold`
+7. **Bold**: `.bold`
+8. **Heavy**: `.heavy`
+9. **Black**: `.black`
 
-1. **UltraLight**: `Font.Weight.ultraLight` / `UIFont.Weight.ultraLight`
-2. **Thin**: `Font.Weight.thin` / `UIFont.Weight.thin`
-3. **Light**: `Font.Weight.light` / `UIFont.Weight.light`
-4. **Regular**: `Font.Weight.regular` / `UIFont.Weight.regular`
-5. **Medium**: `Font.Weight.medium` / `UIFont.Weight.medium`
-6. **Semibold**: `Font.Weight.semibold` / `UIFont.Weight.semibold`
-7. **Bold**: `Font.Weight.bold` / `UIFont.Weight.bold`
-8. **Heavy**: `Font.Weight.heavy` / `UIFont.Weight.heavy`
-9. **Black**: `Font.Weight.black` / `UIFont.Weight.black`
-
-### Text Styles
-
-#### Supported Text Styles:
+### Supported Text Styles:
 
 1. **Large Title**: `.largeTitle`
 2. **Title**: `.title`
@@ -120,7 +116,7 @@ Both SwiftUI and UIKit use the same set of font weights:
 10. **Caption**: `.caption`
 11. **Caption2**: `.caption2`
 
-### Font Designs
+### Supported Font Designs
 
 Designs applicable for iOS 13.0 and later:
 
