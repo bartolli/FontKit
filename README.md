@@ -88,7 +88,6 @@ Absolutely! Providing additional usage examples for various arguments and font s
     footnoteLabel.font = FontKit.font(forTextStyle: .footnote, weight: .regular)
     footnoteLabel.text = "Footnote Label"
     ```
-Certainly! Providing a helper list of all available font weights, text styles, and designs can be a valuable reference for developers using the `FontKit` class. This list will cover the options available in both SwiftUI and UIKit, ensuring that you can easily reference and choose the appropriate settings for your UI components.
 
 ### Supported Font Weights
 
