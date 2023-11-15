@@ -1,6 +1,11 @@
 import SwiftUI
 import UIKit
 
+protocol FontRepresentable {}
+
+extension Font: FontRepresentable {}
+extension UIFont: FontRepresentable {}
+
 struct FontKit {
     enum TextStyle {
         case largeTitle, title, title2, title3
