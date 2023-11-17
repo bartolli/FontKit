@@ -5,7 +5,7 @@ FontKit is an advanced Swift utility designed to bridge the gap between SwiftUI 
 ## Features
 
 - **Unified Font Management**: Manage fonts in SwiftUI and UIKit with a single, versatile utility class. It is specifically optimized for the SF Pro system font.
-- **Dynamic Type Support**: Fully supports Dynamic Type, allowing font sizes to adjust based on the user's accessibility settings automatically.
+- **Dynamic Type Support**: Fully supports Dynamic Type, allowing font sizes to adjust automatically based on the user's accessibility settings.
 - **Multiple Font Designs**: Offers the ability to use various font designs, including `.rounded`, `.serif`, and `.monospaced`, enhancing the visual appeal of your app, especially with the SF Pro font family.
 - **Customizable Font Weights**: Provides flexibility in choosing font weights, from `.ultraLight` to `.black`, to match different design needs.
 - **Ease of Use**: Simplifies the font selection and usage process in both SwiftUI and UIKit environments.
@@ -124,7 +124,3 @@ Designs applicable for iOS 13.0 and later:
 3. **Serif**: `.serif`
 4. **Monospaced**: `.monospaced`
 
-### Notes
-
-- The above font weights and text styles are directly applicable when using the `FontKit` class.
-- This ensures you have quick access to the various font customizations available for both SwiftUI and UIKit.
